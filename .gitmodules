@@ -1,0 +1,3 @@
+[submodule "Newsletter-Signup"]
+	path = Newsletter-Signup
+	url = https://github.com/Jordan-Farthing/Study-of-Nodejs.git
